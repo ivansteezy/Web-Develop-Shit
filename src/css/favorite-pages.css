@@ -1,0 +1,11 @@
+.dw-image {
+    filter: invert(100%)
+}
+
+.fav-image {
+  transition: transform .2s; /* Animation */
+}
+
+.fav-image:hover {
+    transform: scale(1.08);
+}
